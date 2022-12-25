@@ -37,7 +37,7 @@ public class Main {
                             break label;
                     }
                 } else {
-//                    scanner.next();
+                    scanner.next();
                     System.out.println("Выберите пункт меню из списка!");
                 }
             }
